@@ -1,0 +1,6 @@
+repository: git@github.com:allmarkedup/dirtproof.net.git
+
+deploy:
+  branch: master
+  server: general.servers.allmarkedup.com
+  domain: dirtproof.net
